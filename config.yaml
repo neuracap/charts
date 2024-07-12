@@ -1,0 +1,5 @@
+credentials:
+  google:
+    client_id: 534332679421-u8bi9orsblp9n36ia59ukbc458jqku20.apps.googleusercontent.com
+    client_secret: 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
+    redirect_uri: http://localhost:8501
